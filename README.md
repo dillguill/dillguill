@@ -1,16 +1,38 @@
-## Hi there 👋
+# Dillon Guillory
 
-<!--
-**dillguill/dillguill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Houston, TX. I build web applications, AI-powered tools, and self-hosted infrastructure.
 
-Here are some ideas to get you started:
+Currently seeking a full-time developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+**Languages:** Python · JavaScript · HTML · CSS
+
+**Frameworks:** Django · React · Node.js · Tailwind CSS
+
+**AI/ML:** Ollama · Open WebUI · llama.cpp · RAG pipelines · LLM integration
+
+**Cloud / DevOps:** AWS · Docker · Cloudflare · Tailscale · nginx · Linux
+
+**Databases:** PostgreSQL · MySQL
+
+---
+
+## Projects
+
+- **[Local AI Platform](https://dillguill.github.io/projects)** — Self-hosted infrastructure running local LLMs, voice AI, generative image workflows, and agentic pipelines via Docker Compose, Caddy, and Tailscale
+- **[Full-Stack Social Platform](https://github.com/dillguill/django-201)** — Django app with user auth, image uploads, profile management, and activity feeds
+- **[React Movie Browser](https://github.com/dillguill/react-201)** — React SPA with live search and dynamic filtering against a public REST API
+
+---
+
+## Certifications
+
+- AWS Cloud Solutions Architect — Amazon / Coursera
+- Full Stack Web Development — Udemy
+
+---
+
+[Portfolio](https://dillguill.github.io) · [LinkedIn](https://linkedin.com/in/dillon-guillory)
