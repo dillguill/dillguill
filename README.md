@@ -30,6 +30,7 @@ Currently seeking a full-time developer role.
 
 ## Certifications
 
+- IBM Full Stack Software Developer - IBM / Coursera
 - AWS Cloud Solutions Architect — Amazon / Coursera
 - Full Stack Web Development — Udemy
 
