@@ -22,7 +22,7 @@ Currently seeking a full-time developer role.
 
 ## Projects
 
-- **[Local AI Platform](https://dillguill.github.io/projects)** — Self-hosted infrastructure running local LLMs, voice AI, generative image workflows, and agentic pipelines via Docker Compose, Caddy, and Tailscale
+- **[Local AI Platform](https://github.com/dillguill/homelab)** — Self-hosted infrastructure running local LLMs, voice AI, generative image workflows, and agentic pipelines via Docker Compose, Caddy, and Tailscale
 - **[Full-Stack Social Platform](https://github.com/dillguill/django-201)** — Django app with user auth, image uploads, profile management, and activity feeds
 - **[React Movie Browser](https://github.com/dillguill/react-201)** — React SPA with live search and dynamic filtering against a public REST API
 
