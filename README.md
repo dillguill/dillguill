@@ -1,12 +1,16 @@
 # Dillon Guillory
 
+[Portfolio](https://dillguill.github.io) · [LinkedIn](https://linkedin.com/in/dillon-guillory)
+
+---
+
 Full-stack developer based in Houston, TX. I build web applications, AI-powered tools, and self-hosted infrastructure.
 
 Currently seeking a full-time developer role.
 
 ---
 
-## Stack
+## Skills
 
 **Languages:** Python · JavaScript · HTML · CSS
 
@@ -25,7 +29,3 @@ Currently seeking a full-time developer role.
 - IBM Full Stack Software Developer - IBM / Coursera
 - AWS Cloud Solutions Architect — Amazon / Coursera
 - Full Stack Web Development — Udemy
-
----
-
-[Portfolio](https://dillguill.github.io) · [LinkedIn](https://linkedin.com/in/dillon-guillory)
